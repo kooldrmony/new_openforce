@@ -1,0 +1,15 @@
+.Button {
+	text-align: center;
+	justify-content: space-between;
+}
+
+#medium {
+	padding: 15px;
+	font-size: 20px;
+}
+
+#large {
+	padding: 30px;
+	font-size: 30px;
+	width: 155px;
+}
